@@ -10,3 +10,5 @@ Some basic guidelines:
 -to automatically create a css file, run the app using this format: lessc <name of the less file> <space> <name of the css file>
 -in this case it's: lessc app.less app.css
 
+Styling inspired by Colt Steele
+
